@@ -1,10 +1,6 @@
 {
     "commits": [
         {
-            "message": "Added a new timestamp entry to the streak tracker",
-            "change": "Appended the current timestamp to the streak_tracker.txt file to ensure continuous tracking of commit history."
-        },
-        {
             "message": "Refined streak tracker with improved formatting",
             "change": "Updated the streak_tracker.txt file with consistent formatting to enhance readability and structure."
         },
