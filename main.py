@@ -95,7 +95,7 @@ def main():
         processed_commits += 1
 
         if processed_commits < max_commits:
-            logging.info(f"Waiting for {delay} seconds before the next commit")
+            logging.info(f"Waiting for {delay} seconds before the next commit...")
             time.sleep(delay)
 
     if not commits or processed_commits >= max_commits:
