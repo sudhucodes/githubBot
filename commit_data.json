@@ -4,10 +4,6 @@
     "max_commits": 1,
     "commits": [
         {
-            "message": "Enhanced tracking with automated timestamp updates",
-            "change": "Integrated dynamic timestamp generation into the streak_tracker.txt file, ensuring accurate and consistent tracking of changes."
-        },
-        {
             "message": "Corrected formatting issues in streak tracker",
             "change": "Resolved spacing inconsistencies and aligned sections in the streak_tracker.txt file to improve readability and organization."
         },
