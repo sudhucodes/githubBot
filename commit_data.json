@@ -1,8 +1,12 @@
 {
-    "commit_enabled": true,
-    "delay": 30,
-    "max_commits": 3,
+    "commit_enabled": false,
+    "delay": 120,
+    "max_commits": 1,
     "commits": [
+        {
+            "message": "Corrected formatting issues in streak tracker",
+            "change": "Resolved spacing inconsistencies and aligned sections in the streak_tracker.txt file to improve readability and organization."
+        },
         {
             "message": "Added error handling for streak tracker updates",
             "change": "Introduced error-handling mechanisms to the update process for streak_tracker.txt, ensuring stability during unexpected scenarios."
