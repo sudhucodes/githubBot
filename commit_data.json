@@ -1,7 +1,7 @@
 {
     "commit_enabled": false,
     "delay": 120,
-    "max_commits": 4,
+    "max_commits": 1,
     "commits": [
         {
             "message": "Corrected formatting issues in streak tracker",
