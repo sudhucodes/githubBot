@@ -106,4 +106,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-    # $env:GIT_AUTHOR_DATE="2025-01-16T12:00:00"; $env:GIT_COMMITTER_DATE="2025-01-16T12:00:00"; git commit -m "Backdated commit"
+    # $env:GIT_AUTHOR_DATE="2025-01-16T12:00:00"; $env:GIT_COMMITTER_DATE="2025-01-1T12:00:00"; git commit -m "Backdated commit"
