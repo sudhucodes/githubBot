@@ -57,7 +57,7 @@ def update_repo(commit_data):
             committer,
             commit_data['message'],
             tree,
-            [parent],
+            [parent]
         )
 
         remote = repo.remotes["origin"]
